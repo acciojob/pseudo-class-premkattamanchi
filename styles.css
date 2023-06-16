@@ -1,5 +1,4 @@
 /*  your css code here. If applicable */
 span:hover{
-	color:blue;
-	font-size:20px;
+	color:rgb(255, 0, 0);
 }
